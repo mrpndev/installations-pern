@@ -42,7 +42,7 @@ Git is the most common version control system. Think of it like a time machine b
 
 If you see a response, it means you have git and can skip the rest of the instructions.
 
-![git version](./assets/git-version)
+![git version](./assets/git-version.png)
 
 - [ ] Go to [Git's site](https://git-scm.com)
 - [ ] Click `Install`
