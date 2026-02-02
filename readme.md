@@ -11,7 +11,8 @@ Download it from [Node.js site](https://nodejs.org/en)
 - [ ] select 'Get Node'
 - [ ] it will auto select the version and the operating system.
 - [ ] download it and follow the prompts
-[node screen](./assets/node.png)
+
+![node screen](./assets/node.png)
 
 In order to check if Node is installed correctly
 
@@ -22,7 +23,7 @@ In order to check if Node is installed correctly
 
 If it displays with a version, you successfully installed Node.js
 
-[node version](./assets/node-version.png)
+![node version](./assets/node-version.png)
 
 ### GitHub
 
@@ -41,7 +42,7 @@ Git is the most common version control system. Think of it like a time machine b
 
 If you see a response, it means you have git and can skip the rest of the instructions.
 
-[git version](./assets/git-version)
+![git version](./assets/git-version)
 
 - [ ] Go to [Git's site](https://git-scm.com)
 - [ ] Click `Install`
